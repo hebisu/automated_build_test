@@ -1,2 +1,2 @@
 FROM FROM nginx
-ENV AUTHOR="Hiro Ebisu"
+ENV AUTHOR="Hiromitsu Ebisu"
