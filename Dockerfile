@@ -1,2 +1,2 @@
-FROM hebisu/my_whalesay
+FROM FROM nginx
 ENV AUTHOR="Hiro Ebisu"
